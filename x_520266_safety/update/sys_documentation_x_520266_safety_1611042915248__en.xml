@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Safety 1611042915248" language="en" table="x_520266_safety_1611042915248">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Safety 1611042915248</label>
+            <language>en</language>
+            <name>x_520266_safety_1611042915248</name>
+            <plural>Safety 1611042915248s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 07:55:18</sys_created_on>
+            <sys_id>a211ba612fb9201044bfd0ccf699b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Safety 1611042915248</sys_name>
+            <sys_package display_value="Safety" source="x_520266_safety">b970f6212fb9201044bfd0ccf699b61a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">b970f6212fb9201044bfd0ccf699b61a</sys_scope>
+            <sys_update_name>sys_documentation_x_520266_safety_1611042915248__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 07:55:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
